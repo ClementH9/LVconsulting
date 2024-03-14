@@ -20,6 +20,7 @@ nav ul
     list-style-type: none; /* retire le rond de la liste à puce */
     display: flex;
     margin: 0px;
+    color: #545454;
 }
 
 nav li
