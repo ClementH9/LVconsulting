@@ -1,3 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Noto+Sans+JP:wght@100..900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+.logo{
+  width: 45%;
+  height: 45%;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+header
+{
+     display: flex;
+     justify-content: space-between; /* laisse un espace */
+     align-items: center; /* alignement vertical au centre */
+}
+
+nav ul 
+{
+    list-style-type: none; /* retire le rond de la liste à puce */
+    display: flex;
+    margin: 0px;
+}
+
+nav li
+{
+    width: 150px;
+}
+
+.homepage{
+    text-align: center;
+    align-items: center; /* alignement vertical au centre */
+}
+
+.main-banner{
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+h2{
+  color: #037BC9;
+  padding: 5px;
+}
+
+
 .App {
   text-align: center;
 }
