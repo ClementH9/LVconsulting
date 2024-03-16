@@ -1,8 +1,9 @@
 import React from 'react';
 import './App.css';
 import Header from './components/header';
-import Homepage from './components/homepage';
+import Etapes from './components/etapes';
 import MainBanner from "./components/main-banner";
+import Footer from "./components/footer";
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
     <main>
       <Header />
       <MainBanner />
-      <Homepage />
+      <Etapes />
+      <Footer />
     </main>
   </div>
 </body>
