@@ -59,13 +59,24 @@ nav li
 
 h2{
   color: #024a7a;
+  font-size: 34px;
+}
+
+h3{
+  color: #545454;
   padding: 5px;
-  font-size: 28px;
+  font-size: 22px;
 }
 
 .icone-etape{
-  font-size: 32px;
-  color: #545454;
+  font-size: 28px;
+  color: #0079c9;
+  margin-right: 10px;
+}
+
+.icone-engagement{
+  font-size: 28px;
+  color: #0079c9;
   margin-right: 10px;
 }
 
